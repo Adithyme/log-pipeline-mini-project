@@ -25,3 +25,15 @@ In any IT environment, **logs** are generated to record important events like sy
 2025-05-14 08:22:11,INFO,System boot successful
 2025-05-14 08:24:45,WARNING,Memory usage exceeds 70%
 2025-05-14 08:26:12,ERROR,Database connection failed
+
+Key Insights Gained:
+
+| Insight               | Meaning                                                                                                                                  |
+| ----------------------| ---------------------------------------------------------------------------------------------------------------------------------------- |
+|Log Level Distribution | Most logs were `INFO` type, showing normal system activity. You also detected `ERROR` and `WARNING` logs, which highlight issues.        |
+|Time-Based Activity    | All logs occurred around the 8 AM hour, suggesting that your system's peak activity or problems occur during that time.                  |
+|Error Messages         | Errors like "Database connection failed" and "Service timeout" were found, indicating potential issues in backend or network operations. |
+|Clean Dataset          | After parsing and cleaning, your log data was structured and ready for further analysis or automation (e.g., alerting systems).          |
+
+
+
