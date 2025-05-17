@@ -1,0 +1,11 @@
+timestamps,log_levels,messeges,date,hour,day_of_week
+2025-05-14 08:22:11,INFO,System boot successful,2025-05-14,8,Wednesday
+2025-05-14 08:24:45,WARNING,Memory usage exceeds 70%,2025-05-14,8,Wednesday
+2025-05-14 08:26:12,ERROR,Database connection failed,2025-05-14,8,Wednesday
+2025-05-14 08:28:01,INFO,User 'admin' logged in,2025-05-14,8,Wednesday
+2025-05-14 08:30:59,ERROR,Service timeout after 30 seconds,2025-05-14,8,Wednesday
+2025-05-14 08:35:20,INFO,Scheduled job started,2025-05-14,8,Wednesday
+2025-05-14 08:37:44,WARNING,Disk space below threshold,2025-05-14,8,Wednesday
+2025-05-14 08:39:33,ERROR,FileNotFoundError: /var/log/syslog,2025-05-14,8,Wednesday
+2025-05-14 08:45:00,INFO,Backup completed successfully,2025-05-14,8,Wednesday
+2025-05-14 08:50:27,INFO,User 'guest' logged out,2025-05-14,8,Wednesday
